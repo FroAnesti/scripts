@@ -1,3 +1,4 @@
+# An example of creating an example of simulations' folder. #
 from subprocess import call
 from parameters import xml_str, xml_str_sim, xml_str_cell, xml_str_network, xml_str_conf
 import xml.dom.minidom as md
