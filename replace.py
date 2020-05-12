@@ -5,7 +5,7 @@ import fileinput
 import os
 
 
-for NO in range(308, 607, 1):
+for NO in range(0, 1200, 1):
 	cwd = os.getcwd()
 	print(cwd)
 	# This will change your current working directory
