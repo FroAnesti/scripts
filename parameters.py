@@ -1,3 +1,4 @@
+# This file describes the general structure of the parameters.xml file. #
 from xml.dom import minidom
 import os
 import random
