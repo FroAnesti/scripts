@@ -1,3 +1,4 @@
+# Insert the init.txt file in each simulation's folder (run_i folder). # 
 from shutil import copy2
 
 for i in range(0, 1632, 1):
